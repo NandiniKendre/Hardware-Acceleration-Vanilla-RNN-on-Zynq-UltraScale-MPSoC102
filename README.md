@@ -32,4 +32,3 @@ The design computes the hidden state iteratively using input vectors, recurrent 
 
 - Verilog HDL
 - Vivado
-- ModelSim / QuestaSim
