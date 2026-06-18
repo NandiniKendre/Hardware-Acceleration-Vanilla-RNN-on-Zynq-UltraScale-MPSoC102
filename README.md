@@ -1,4 +1,5 @@
-# RTL-Based Vanilla RNN Accelerator
+# Hardware-Acceleration-Vanilla-RNN-on-Zynq-UltraScale-MPSoC102
+
 
 ## Overview
 
