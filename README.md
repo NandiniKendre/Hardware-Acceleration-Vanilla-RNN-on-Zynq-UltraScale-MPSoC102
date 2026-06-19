@@ -19,7 +19,7 @@ This project implements a configurable Vanilla Recurrent Neural Network (RNN) us
 h(t) = tanh(Wx·x(t) + Wh·h(t−1) + b)
 
 The design computes the hidden state iteratively using input vectors, recurrent weights, and bias terms.
-
+ 
 ## Applications
 
 - Sequence Processing
