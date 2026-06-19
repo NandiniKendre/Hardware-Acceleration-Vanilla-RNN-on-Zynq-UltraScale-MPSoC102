@@ -5,7 +5,7 @@
 
 This project implements a configurable Vanilla Recurrent Neural Network (RNN) using Verilog HDL. The design performs recurrent hidden-state computation and activation processing in hardware, demonstrating FPGA-oriented machine learning acceleration techniques.
 
-## Features
+## Features 
 
 - Parameterized RTL architecture
 - Configurable input and hidden dimensions
